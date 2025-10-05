@@ -2,7 +2,7 @@
 const createUser = (name, city) =>{
   return {
     "name" : name,
-    "city" : city
+    "city" : Kiyv
   }
 };
 

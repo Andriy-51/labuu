@@ -2,7 +2,7 @@
 const phonebook = [
     {"name":"Billy","phone":"+380669685235"},
     {"name":"Van","phone":"+380678945265"},
-    {"name":"Joe","phone":"+380984567188"},
+    {"name":"Joe","phone":"+380954567188"},
     {"name":"Candice","phone":"+380973758462"}];
 
 const findPhoneByName = (a) =>{

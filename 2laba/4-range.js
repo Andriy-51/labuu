@@ -2,7 +2,7 @@
 
 const range = (begin, end) => {
   const len = end - begin;
-  if (len < 0) return [];
+  if (len < 1) return [];
   const array = new Array(len);
   let i = 0;
   for (let n = begin; n <= end; n++) {
